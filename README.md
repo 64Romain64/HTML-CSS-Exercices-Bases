@@ -14,3 +14,9 @@ Chaque étudiant doit proposer sa solution au problème posé, la collaboration 
 Un temps de partage des solutions sera alloué (en général en fin de semaine).
 
 Bon code !
+
+# Instructions pour le rendu sur Github Classroom
+
+Le plus simple est de faire un clone de ce dépôt ( git clone url_du_repository), puis de travailler dessus en local.
+
+Ensuite, publiez votre code quand vous le souhaitez ( git add / commit / push).
