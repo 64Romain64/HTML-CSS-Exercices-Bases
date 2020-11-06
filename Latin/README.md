@@ -1,6 +1,6 @@
-# latin malin <img width='30' src='https://github.com/FabriqueNumeriquePau/HTML-CSS/blob/master/poussin.png'>
+# latin malin
 
-Etes-vous plus latin malin ou latin crétin ?
+Etes-vous latin malin ?
 
 1 - Tentez de reproduire le lapin_malin.png.
 
