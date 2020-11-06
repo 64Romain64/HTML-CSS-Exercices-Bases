@@ -20,3 +20,5 @@ Bon code !
 Le plus simple est de faire un clone de ce dépôt ( git clone url_du_repository), puis de travailler dessus en local.
 
 Ensuite, publiez votre code quand vous le souhaitez ( git add / commit / push).
+
+Vous pouvez également faire un fork (une copie) de ce dépôt sur votre propre compte Github.
